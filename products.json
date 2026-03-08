@@ -1,5 +1,16 @@
 [
   {
+    "id": 1772985746308,
+    "name": "المنتج الأخضر",
+    "price": "1500",
+    "img": "https://cdn.jsdelivr.net/gh/AdVax/AdvaxStore@main/images/img_1772985690017_7786.webp",
+    "desc": "المنتج الجديد \nخصائصه : \n1.\n2.\n3.",
+    "old_price": "",
+    "badge_text": "جديد",
+    "cat": "العناية بالبشرة",
+    "is_offer": false
+  },
+  {
     "id": 1772985645634,
     "name": "المنتج الرابع",
     "price": "4000",
