@@ -1,5 +1,16 @@
 [
   {
+    "id": 1772992835538,
+    "name": "واقي شمسي",
+    "price": "3000",
+    "img": "https://cdn.jsdelivr.net/gh/AdVax/AdvaxStore@main/images/img_1772992769680_4006.webp",
+    "desc": "تفاصيل المنتج...",
+    "old_price": "",
+    "badge_text": "",
+    "cat": "",
+    "is_offer": false
+  },
+  {
     "id": 1772986875563,
     "name": "واقي شمسي",
     "price": "2200",
