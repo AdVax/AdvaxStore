@@ -1,5 +1,16 @@
 [
   {
+    "id": 1772993008800,
+    "name": "المنتج السابع",
+    "price": "2200",
+    "img": "https://cdn.jsdelivr.net/gh/AdVax/AdvaxStore@main/images/img_1772992932283_2233.webp",
+    "desc": "تفاصيل المنتج ....",
+    "old_price": "",
+    "badge_text": "عرض العيد",
+    "cat": "",
+    "is_offer": true
+  },
+  {
     "id": 1772992903486,
     "name": "المنتج الثالث",
     "price": "2300",
