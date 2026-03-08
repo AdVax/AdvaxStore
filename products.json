@@ -1,5 +1,16 @@
 [
   {
+    "id": 1772985645634,
+    "name": "المنتج الرابع",
+    "price": "4000",
+    "img": "https://cdn.jsdelivr.net/gh/AdVax/AdvaxStore@main/images/img_1772985549988_3753.webp",
+    "desc": "الالوان المتاحة \n1.كذا \n2.كذا",
+    "old_price": "4500",
+    "badge_text": "",
+    "cat": "العناية بالشعر",
+    "is_offer": false
+  },
+  {
     "id": 1772985528505,
     "name": "المنتج الثالث",
     "price": "3000",
