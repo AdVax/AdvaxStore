@@ -1,5 +1,16 @@
 [
   {
+    "id": 1772986205382,
+    "name": "كريم نهاري",
+    "price": "1500",
+    "img": "https://cdn.jsdelivr.net/gh/AdVax/AdvaxStore@main/images/img_1772986142667_8735.webp",
+    "desc": "خصائص المنتج :\n1.\n2. \nطريقة الاستخدام :\n1.\n2.\n3.",
+    "old_price": "",
+    "badge_text": "",
+    "cat": "العناية بالشعر",
+    "is_offer": false
+  },
+  {
     "id": 1772986121856,
     "name": "لوشن الجسم",
     "price": "3000",
