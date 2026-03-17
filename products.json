@@ -1,5 +1,5 @@
 {
-  "_v": 1773775036648,
+  "_v": 1773775041461,
   "items": [
     {
       "id": 1773758071172,
@@ -10,17 +10,6 @@
       "old_price": "350",
       "badge_text": "وصل حديثا ",
       "cat": "test",
-      "is_offer": false
-    },
-    {
-      "id": 1772921215411,
-      "name": "المنتج الاول",
-      "price": "2500",
-      "img": "https://cdn.jsdelivr.net/gh/AdVax/AdvaxStore@main/images/img_1772921158061_5801.webp",
-      "desc": "ةااتت\nةاعع\n\n",
-      "old_price": "3000",
-      "badge_text": "جديدنا",
-      "cat": "مستحضرات تجميل",
       "is_offer": false
     },
     {
