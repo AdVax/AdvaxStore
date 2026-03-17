@@ -1,5 +1,16 @@
 [
   {
+    "id": 1773763514197,
+    "name": "تجربة",
+    "price": "9000",
+    "img": "https://cdn.jsdelivr.net/gh/AdVax/AdvaxStore@main/images/img_1773763443083_7608.webp",
+    "desc": "فثاثل\nثقل\nثقلثق\nل\nثقل\nثق\nل\nثقل\nثقل\nثق\nلثقل",
+    "old_price": "7000",
+    "badge_text": "وصل اليوم ",
+    "cat": "مستحضرات تجميلية",
+    "is_offer": false
+  },
+  {
     "id": 1772921215411,
     "name": "المنتج الاول",
     "price": "2500",
