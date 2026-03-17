@@ -1,16 +1,5 @@
 [
   {
-    "id": 1773755271807,
-    "name": "test 2",
-    "price": "5000",
-    "img": "https://cdn.jsdelivr.net/gh/AdVax/AdvaxStore@main/images/img_1773755233057_7712.webp",
-    "desc": "ygjgh\ngfh\nfghfgh\ngf\nfggfh\ngf\ngfh\ngfh\nf\ng",
-    "old_price": "2500",
-    "badge_text": " ",
-    "cat": "",
-    "is_offer": true
-  },
-  {
     "id": 1773754690647,
     "name": "test",
     "price": "5200",
