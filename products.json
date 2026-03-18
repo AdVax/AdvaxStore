@@ -1,5 +1,5 @@
 {
-  "_v": 1773796897044,
+  "_v": 1773796902803,
   "items": [
     {
       "id": 1773795761428,
@@ -176,17 +176,6 @@
       "badge_text": "",
       "cat": "مستحضرات تجميل",
       "is_offer": false
-    },
-    {
-      "id": 1773754690647,
-      "name": "test",
-      "price": "5200",
-      "img": "https://cdn.jsdelivr.net/gh/AdVax/AdvaxStore@main/images/img_1773754655597_6846.webp",
-      "desc": "drgrd\ndf\nh\ngfh\ngfnhgfh\ngfh\nfgh\n",
-      "old_price": "4900",
-      "badge_text": "",
-      "cat": "",
-      "is_offer": true
     },
     {
       "id": 1772993008800,
