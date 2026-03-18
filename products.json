@@ -1,5 +1,5 @@
 {
-  "_v": 1773795761428,
+  "_v": 1773796897044,
   "items": [
     {
       "id": 1773795761428,
@@ -9,17 +9,6 @@
       "desc": "قفبلفقاغتى\nغفتى\nغ\nفت\nعغعغتة\nغعاتة",
       "old_price": "4500",
       "badge_text": "فاباي",
-      "cat": "",
-      "is_offer": true
-    },
-    {
-      "id": 1773782236549,
-      "name": "test mh",
-      "price": "3000",
-      "img": "https://cdn.jsdelivr.net/gh/AdVax/AdvaxStore@main/images/img_1773782209422_5589.webp",
-      "desc": "rgrdgrtytr\ngtr\ngtr\ngtr\ng\ntrg\nrt\ng\nrt\ngr",
-      "old_price": "3500",
-      "badge_text": "drgdrg",
       "cat": "",
       "is_offer": true
     },
