@@ -1,5 +1,5 @@
 {
-  "_v": 1773803339605,
+  "_v": 1773803349607,
   "items": [
     {
       "id": 1773801311484,
@@ -43,17 +43,6 @@
       "old_price": "2500",
       "badge_text": "فقافقا",
       "cat": "فلاقفا",
-      "is_offer": false
-    },
-    {
-      "id": 1773758071172,
-      "name": "test 3",
-      "price": "700",
-      "img": "https://cdn.jsdelivr.net/gh/AdVax/AdvaxStore@main/images/img_1773758030220_1448.webp",
-      "desc": "يبلبا\nلبالبا\nلبا\nبلا\nلبا\nبلا\nبلا\nبلا\nبل\nا\nبل\nالب\nا",
-      "old_price": "350",
-      "badge_text": "وصل حديثا ",
-      "cat": "test",
       "is_offer": false
     },
     {
