@@ -1,17 +1,6 @@
 {
-  "_v": 1773803250813,
+  "_v": 1773803327597,
   "items": [
-    {
-      "id": 1773803250811,
-      "name": "كريم جديد",
-      "price": "69",
-      "img": "https://cdn.jsdelivr.net/gh/AdVax/AdvaxStore@main/images/img_1773803215330_9032.webp",
-      "desc": "عريص",
-      "old_price": "96",
-      "badge_text": "عريص",
-      "cat": "عرصات",
-      "is_offer": true
-    },
     {
       "id": 1773801407742,
       "name": "افبلففلافق",
