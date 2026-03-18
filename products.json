@@ -1,6 +1,17 @@
 {
-  "_v": 1773799562555,
+  "_v": 1773801013748,
   "items": [
+    {
+      "id": 1773801013748,
+      "name": "قلقثقث",
+      "price": "5000",
+      "img": "https://cdn.jsdelivr.net/gh/AdVax/AdvaxStore@main/images/img_1773800997235_1412.webp",
+      "desc": "",
+      "old_price": "2500",
+      "badge_text": "قيلرقرقي",
+      "cat": "",
+      "is_offer": false
+    },
     {
       "id": 1773799562555,
       "name": "الهالم",
