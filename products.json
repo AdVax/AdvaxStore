@@ -1,5 +1,5 @@
 {
-  "_v": 1773803327597,
+  "_v": 1773803336109,
   "items": [
     {
       "id": 1773801407742,
@@ -220,17 +220,6 @@
       "badge_text": "",
       "cat": "مستحضرات تجميل",
       "is_offer": false
-    },
-    {
-      "id": 1773796933596,
-      "name": "افبلففلافق",
-      "price": "3000",
-      "img": "https://cdn.jsdelivr.net/gh/AdVax/AdvaxStore@main/images/img_1773796918089_1150.webp",
-      "desc": "قفاغقفاقفاقفعق6فتع",
-      "old_price": "2500",
-      "badge_text": "",
-      "cat": "يقغ5قفغ",
-      "is_offer": true
     },
     {
       "id": 1772993008800,
