@@ -1,6 +1,17 @@
 {
-  "_v": 1773796933596,
+  "_v": 1773798060507,
   "items": [
+    {
+      "id": 1773798060507,
+      "name": "غعنعغ",
+      "price": "3000",
+      "img": "https://cdn.jsdelivr.net/gh/AdVax/AdvaxStore@main/images/img_1773798032662_5421.webp",
+      "desc": "قفافقافغا",
+      "old_price": "2500",
+      "badge_text": "فقافقا",
+      "cat": "فلاقفا",
+      "is_offer": false
+    },
     {
       "id": 1773796933596,
       "name": "افبلففلافق",
