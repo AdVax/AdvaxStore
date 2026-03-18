@@ -1,17 +1,6 @@
 {
-  "_v": 1773796902803,
+  "_v": 1773796907747,
   "items": [
-    {
-      "id": 1773795761428,
-      "name": "تجربة التعديلة",
-      "price": "3000",
-      "img": "https://cdn.jsdelivr.net/gh/AdVax/AdvaxStore@main/images/img_1773795687487_4489.webp",
-      "desc": "قفبلفقاغتى\nغفتى\nغ\nفت\nعغعغتة\nغعاتة",
-      "old_price": "4500",
-      "badge_text": "فاباي",
-      "cat": "",
-      "is_offer": true
-    },
     {
       "id": 1773758071172,
       "name": "test 3",
