@@ -1,6 +1,17 @@
 {
-  "_v": 1773799396379,
+  "_v": 1773799562555,
   "items": [
+    {
+      "id": 1773799562555,
+      "name": "الهالم",
+      "price": "3500",
+      "img": "https://cdn.jsdelivr.net/gh/AdVax/AdvaxStore@main/images/img_1773799516672_9336.webp",
+      "desc": "قفافقا\nفاق\nفق\nقفا\nفق\nا\nفا\nفق\nال\n\nقفا",
+      "old_price": "4000",
+      "badge_text": "فاقفاقفا",
+      "cat": "فلاقفا",
+      "is_offer": false
+    },
     {
       "id": 1773798060507,
       "name": "غعنعغ",
