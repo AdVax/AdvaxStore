@@ -1,5 +1,5 @@
 {
-  "_v": 1773803354143,
+  "_v": 1773803357213,
   "items": [
     {
       "id": 1773801311484,
@@ -21,17 +21,6 @@
       "old_price": "4000",
       "badge_text": "فاقفاقفا",
       "cat": "فلاقفا",
-      "is_offer": false
-    },
-    {
-      "id": 1773801013748,
-      "name": "قلقثقث",
-      "price": "5000",
-      "img": "https://cdn.jsdelivr.net/gh/AdVax/AdvaxStore@main/images/img_1773800997235_1412.webp",
-      "desc": "",
-      "old_price": "2500",
-      "badge_text": "قيلرقرقي",
-      "cat": "",
       "is_offer": false
     },
     {
