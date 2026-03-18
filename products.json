@@ -1,17 +1,6 @@
 {
-  "_v": 1773803336109,
+  "_v": 1773803339605,
   "items": [
-    {
-      "id": 1773801407742,
-      "name": "افبلففلافق",
-      "price": "5700",
-      "img": "https://cdn.jsdelivr.net/gh/AdVax/AdvaxStore@main/images/img_1773801331536_2469.webp",
-      "desc": "",
-      "old_price": "4500",
-      "badge_text": "",
-      "cat": "",
-      "is_offer": true
-    },
     {
       "id": 1773801311484,
       "name": "test mh",
