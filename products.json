@@ -1,6 +1,17 @@
 {
-  "_v": 1773803367232,
+  "_v": 1773960506627,
   "items": [
+    {
+      "id": 1773960506627,
+      "name": "تيستاية",
+      "price": "4800",
+      "img": "https://cdn.jsdelivr.net/gh/AdVax/AdvaxStore@main/images/img_1773960475991_9576.webp",
+      "desc": "ثقاقفا",
+      "old_price": "5100",
+      "badge_text": "فقافقا",
+      "cat": "",
+      "is_offer": true
+    },
     {
       "id": 1772986875563,
       "name": "واقي شمسي",
