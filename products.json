@@ -1,6 +1,17 @@
 {
-  "_v": 1773964160347,
+  "_v": 1773964188467,
   "items": [
+    {
+      "id": 1773964188467,
+      "name": "عرض",
+      "price": "6000",
+      "img": "https://cdn.jsdelivr.net/gh/AdVax/AdvaxStore@main/images/img_1773964178438_4614.webp",
+      "desc": "",
+      "old_price": "",
+      "badge_text": "",
+      "cat": "",
+      "is_offer": true
+    },
     {
       "id": 1773964160347,
       "name": "عادي",
