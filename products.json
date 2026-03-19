@@ -1,6 +1,17 @@
 {
-  "_v": 1773960506627,
+  "_v": 1773961046948,
   "items": [
+    {
+      "id": 1773961046947,
+      "name": "تيسسسسست ةات",
+      "price": "9000",
+      "img": "https://cdn.jsdelivr.net/gh/AdVax/AdvaxStore@main/images/img_1773961001258_7812.webp",
+      "desc": "تااتنة",
+      "old_price": "10000",
+      "badge_text": "فقافقا",
+      "cat": "تيسستات",
+      "is_offer": false
+    },
     {
       "id": 1773960506627,
       "name": "تيستاية",
