@@ -1,5 +1,5 @@
 {
-  "_v": 1773964448395,
+  "_v": 1773964454643,
   "items": [
     {
       "id": 1773964188467,
@@ -22,17 +22,6 @@
       "badge_text": "",
       "cat": "",
       "is_offer": false
-    },
-    {
-      "id": 1773964001451,
-      "name": "goooood",
-      "price": "5000",
-      "img": "https://cdn.jsdelivr.net/gh/AdVax/AdvaxStore@main/images/img_1773963982561_3907.webp",
-      "desc": "sdgfdsgdsg",
-      "old_price": "6000",
-      "badge_text": "dsrgrd",
-      "cat": "",
-      "is_offer": true
     },
     {
       "id": 1772986875563,
