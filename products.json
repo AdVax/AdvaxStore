@@ -1,6 +1,17 @@
 {
-  "_v": 1774253911716,
+  "_v": 1774253943277,
   "items": [
+    {
+      "id": 1774253943265,
+      "name": "Hshe",
+      "price": "7000",
+      "img": "https://cdn.jsdelivr.net/gh/AdVax/AdvaxStore@main/images/img_1774253927042_8304.webp",
+      "desc": "Zuehe\nc\nD\nd\ndd\n",
+      "old_price": "8000",
+      "badge_text": "جديدنا",
+      "cat": "العناية بالبشرة",
+      "is_offer": false
+    },
     {
       "id": 1774253911709,
       "name": "تجربة ٢",
