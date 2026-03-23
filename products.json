@@ -1,6 +1,17 @@
 {
-  "_v": 1774253881412,
+  "_v": 1774253911716,
   "items": [
+    {
+      "id": 1774253911709,
+      "name": "تجربة ٢",
+      "price": "2500",
+      "img": "https://cdn.jsdelivr.net/gh/AdVax/AdvaxStore@main/images/img_1774253892288_4819.webp",
+      "desc": "Hxhehr\nf\nff\nF\nF\nrR",
+      "old_price": "",
+      "badge_text": "جديدنا",
+      "cat": "",
+      "is_offer": true
+    },
     {
       "id": 1774253881410,
       "name": "تجربة١",
