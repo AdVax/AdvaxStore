@@ -1,6 +1,17 @@
 {
-  "_v": 1774253943277,
+  "_v": 1775328297144,
   "items": [
+    {
+      "id": 1775328297137,
+      "name": "كريم جديد",
+      "price": "3000",
+      "img": "https://cdn.jsdelivr.net/gh/AdVax/AdvaxStore@main/images/img_1775328278100_7262.webp",
+      "desc": "ار٥ل٦ل٦ى \nعا٦ة٧ا\n٦للا٦٦ا",
+      "old_price": "3000",
+      "badge_text": "جديدنا",
+      "cat": "مستحضرات تجميل",
+      "is_offer": false
+    },
     {
       "id": 1774253943265,
       "name": "Hshe",
