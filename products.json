@@ -1,6 +1,56 @@
 {
-  "_v": 1775328297144,
+  "_v": 1776515373557,
   "items": [
+    {
+      "id": 1776515373555,
+      "name": "المنتجات الجديدة",
+      "price": "3500",
+      "img": "https://cdn.jsdelivr.net/gh/AdVax/AdvaxStore@main/images/img_1776515204381_3496.webp",
+      "imgs": [
+        "https://cdn.jsdelivr.net/gh/AdVax/AdvaxStore@main/images/img_1776515204381_3496.webp"
+      ],
+      "desc": "Hay",
+      "old_price": "4000",
+      "badge_text": "Hay",
+      "cat": "Hay",
+      "is_offer": true,
+      "variants": [
+        {
+          "label": "الوزن",
+          "options": [
+            {
+              "name": "100 مل",
+              "price": "50000"
+            },
+            {
+              "name": "200 مل",
+              "price": "80000"
+            },
+            {
+              "name": "300 مل",
+              "price": "100000"
+            }
+          ]
+        },
+        {
+          "label": "اللون",
+          "options": [
+            {
+              "name": "احمر",
+              "price": null
+            },
+            {
+              "name": "اخضر",
+              "price": null
+            },
+            {
+              "name": "اصفر",
+              "price": null
+            }
+          ]
+        }
+      ]
+    },
     {
       "id": 1775328297137,
       "name": "كريم جديد",
